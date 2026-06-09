@@ -7,7 +7,7 @@ O objetivo principal é dominar a manipulação eficiente de dados em memória, 
 
 | Tópico | Abordagem Teórica | Implementação Prática |
 | :--- | :--- | :--- |
-| **1. ArrayList** | Armazenamento dinâmico e indexado em memória. | Inserção, iteração ordenada e busca eficiente via índices. |
+| **1. Array & List** | Armazenamento de valores por listas e arrays | Inserção, iteração ordenada e busca eficiente via índices. |
 | **2. Map & Wrappers** | Estruturas baseadas em Chave-Valor (`Key-Value`). | Associações únicas utilizando classes Wrappers (`Integer`, `Double`, etc.) para tipagem segura. |
 | **3. Strings & Buffers** | Mutabilidade vs. Imutabilidade em memória Heap. | Comparação de performance entre `String`, `StringBuilder` e `StringBuffer` (Thread-Safe). |
 
